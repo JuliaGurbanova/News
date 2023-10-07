@@ -16,4 +16,4 @@ This is a SwiftUI project for a simple news app that fetches and displays articl
 
 - SwiftUI
 - Swift Concurrency
-= URLSession for network requests
+- URLSession for network requests
